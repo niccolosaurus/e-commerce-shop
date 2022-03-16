@@ -15,6 +15,7 @@ A backend e-commerce database for your shop and items.
 - [License](#license)
 - [Contribution](#contribution)
 - [Test Instructions](#test-instructions)
+- [Demo](#demo)
 - [Questions](#questions)
 
 
