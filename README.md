@@ -1,5 +1,5 @@
 
-  # E-Commerce Shop
+# E-Commerce Shop
 
   ----
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
@@ -30,14 +30,8 @@ Run npm install in node.</br>  Log into mysql and source db/schema.sql.</br>  Ru
 MIT
 https://choosealicense.com/licenses/mit/
 
-### License Details
-
-MIT License
-
-Copyright (c) [2022] [NiccoloEck]
-
 ### Contribution
-me (niccolosaurus)
+niccolosaurus (Niccolo Eck)
 
 ### Test-Instructions
 n/a
@@ -46,6 +40,6 @@ n/a
 https://bit.ly/3MRok3R
 
 ### Questions
-[Github Profie](https://github.com/niccolosaurus)
-nicco.eck@gmail.com
+[Github Profie](https://github.com/niccolosaurus)</br>
+nicco.eck@gmail.com</br>
 
